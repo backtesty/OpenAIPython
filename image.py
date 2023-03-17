@@ -1,6 +1,6 @@
 import os, openai
 
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="sk-xxxxxxxxxxxxxxxxL"
 openai.api_key = OPENAI_API_KEY
 response = openai.Image.create_edit(
     image=open("johnmendoza.png", "rb"),
