@@ -1,5 +1,5 @@
 import openai
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="sk-xxxxxxxx"
 
 openai.api_key = OPENAI_API_KEY
 
